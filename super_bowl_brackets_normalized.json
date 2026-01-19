@@ -1,0 +1,1407 @@
+{
+  "metadata": {
+    "season": "2024-2025",
+    "event": "Super Bowl LX",
+    "extracted_date": "2025-01-27",
+    "total_contestants": 13,
+    "conferences": {
+      "NFC": "National Football Conference",
+      "AFC": "American Football Conference"
+    }
+  },
+  "brackets": {
+    "david_g": {
+      "contestant_name": "David G.",
+      "signature": "David G. pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+            "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+            "team2": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+            "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 7, "team": "GB", "name": "Green Bay Packers", "conference": "NFC"},
+        "team2": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers", "conference": "AFC"},
+        "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+      }
+    },
+    "bere": {
+      "contestant_name": "Bere",
+      "signature": "Bere pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+            "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+            "winner": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+            "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+            "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks", "conference": "NFC"},
+        "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills", "conference": "AFC"},
+        "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+      }
+    },
+    "david_l": {
+      "contestant_name": "David L.",
+      "signature": "David L. pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+            "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+            "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+            "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 7, "team": "GB", "name": "Green Bay Packers", "conference": "NFC"},
+        "team2": {"seed": 2, "team": "NE", "name": "New England Patriots", "conference": "AFC"},
+        "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+      }
+    },
+    "mario": {
+      "contestant_name": "Mario",
+      "signature": "Mario's pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+            "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "team2": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+            },
+
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1":{"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+            "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+            "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers", "conference": "NFC"},
+        "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+        "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+      }
+    },
+    "liz": {
+      "contestant_name": "Liz",
+      "signature": "Liz pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "team1": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+            "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+            "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+            "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams", "conference": "NFC"},
+        "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers", "conference": "AFC"},
+        "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+      }
+    },
+    "carlos": {
+      "contestant_name": "Carlos",
+      "signature": "Carlos pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "winner": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+            "team2": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+            "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+            "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+            "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks", "conference": "NFC"},
+        "team2": {"seed": 1, "team": "DEN", "name": "Denver Broncos", "conference": "AFC"},
+        "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+      }
+    },
+    "chucky": {
+      "contestant_name": "chucky",
+      "signature": "chucky pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+            "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+            "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+            "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams", "conference": "NFC"},
+        "team2": {"seed": 1, "team": "DEN", "name": "Denver Broncos", "conference": "AFC"},
+        "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+      }
+    },
+    "beto": {
+      "contestant_name": "Beto",
+      "signature": "Beto pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "team2": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "winner": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "team2": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "winner": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+            "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+            "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "team2": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+            "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+            "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles", "conference": "NFC"},
+        "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars", "conference": "AFC"},
+        "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars", "conference": "AFC"}
+      }
+    },
+    "ruben": {
+      "contestant_name": "Ruben",
+      "signature": "Ruben pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+            "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "team2": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+            "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+            "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams", "conference": "NFC"},
+        "team2": {"seed": 2, "team": "NE", "name": "New England Patriots", "conference": "AFC"},
+        "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+      }
+    },
+    "chuy": {
+      "contestant_name": "Chuy",
+      "signature": "Chuy picks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "team2": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "team2": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "team2": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "winner": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+            "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+            "winner": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "team2": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "winner": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+            "team2": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+            "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks", "conference": "NFC"},
+        "team2": {"seed": 1, "team": "DEN", "name": "Denver Broncos", "conference": "AFC"},
+        "winner": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"}
+      }
+    },
+    "jayden": {
+      "contestant_name": "Jayden",
+      "signature": "Jayden pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+            "team2": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+            "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+            "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+            "winner": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers", "conference": "NFC"},
+        "team2": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars", "conference": "AFC"},
+        "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+      }
+    },
+    "chavito": {
+      "contestant_name": "Chavito",
+      "signature": "Chavito pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 2, "team": "CHI", "name": "Chicago Bears"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "winner": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "team2": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+            "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 2, "team": "NE", "name": "New England Patriots"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team2": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team1": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+            "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+            "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams", "conference": "NFC"},
+        "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills", "conference": "AFC"},
+        "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+      }
+    },
+    "miguel": {
+      "contestant_name": "Miguel",
+      "signature": "Miguel pks",
+      "conferences": {
+        "NFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "CHI", "name": "Chicago Bears"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 7, "team": "GB", "name": "Green Bay Packers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "PHI", "name": "Philadelphia Eagles"},
+              "team2": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "winner": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "CAR", "name": "Carolina Panthers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+              "team2": {"seed": 7, "team": "GB", "name": "Green Bay Packers"},
+              "winner": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "SF", "name": "San Francisco 49ers"},
+              "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+              "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+            }
+          ],
+          "championship": {
+            "round": "NFC Championship",
+            "team1": {"seed": 1, "team": "SEA", "name": "Seattle Seahawks"},
+            "team2": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"},
+            "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+          }
+        },
+        "AFC": {
+          "wild_card": [
+            {
+              "round": "Wild Card",
+              "matchup": 1,
+              "team1": {"seed": 2, "team": "NE", "name": "New England Patriots"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 2,
+              "team1": {"seed": 3, "team": "JAX", "name": "Jacksonville Jaguars"},
+              "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            },
+            {
+              "round": "Wild Card",
+              "matchup": 3,
+              "team1": {"seed": 4, "team": "PIT", "name": "Pittsburgh Steelers"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 5, "team": "HOU", "name": "Houston Texans"}
+            }
+          ],
+          "divisional": [
+            {
+              "round": "Divisional",
+              "matchup": 1,
+              "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+              "team2": {"seed": 7, "team": "LAC", "name": "Los Angeles Chargers"},
+              "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+            },
+            {
+              "round": "Divisional",
+              "matchup": 2,
+              "team1": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+              "team2": {"seed": 5, "team": "HOU", "name": "Houston Texans"},
+              "winner": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"}
+            }
+          ],
+          "championship": {
+            "round": "AFC Championship",
+            "team1": {"seed": 1, "team": "DEN", "name": "Denver Broncos"},
+            "team2": {"seed": 6, "team": "BUF", "name": "Buffalo Bills"},
+            "winner": {"seed": 1, "team": "DEN", "name": "Denver Broncos"}
+          }
+        }
+      },
+      "super_bowl": {
+        "team1": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams", "conference": "NFC"},
+        "team2": {"seed": 1, "team": "DEN", "name": "Denver Broncos", "conference": "AFC"},
+        "winner": {"seed": 5, "team": "LAR", "name": "Los Angeles Rams"}
+      }
+    }
+  },
+  "summary": {
+    "champions": {
+      "GB": {"count": 2, "contestants": ["david_g", "david_l"]},
+      "BUF": {"count": 1, "contestants": ["bere"]},
+      "SF": {"count": 2, "contestants": ["mario", "jayden"]},
+      "LAR": {"count": 5, "contestants": ["liz", "chucky", "ruben", "chavito", "miguel"]},
+      "DEN": {"count": 1, "contestants": ["carlos"]},
+      "PHI": {"count": 1, "contestants": ["beto"]},
+      "SEA": {"count": 1, "contestants": ["chuy"]}
+    },
+    "super_bowl_matchups": [
+      {"NFC": "GB", "AFC": "PIT", "winner": "GB"},
+      {"NFC": "SEA", "AFC": "BUF", "winner": "BUF"},
+      {"NFC": "GB", "AFC": "NE", "winner": "GB"},
+      {"NFC": "SF", "AFC": "BUF", "winner": "SF"},
+      {"NFC": "LAR", "AFC": "PIT", "winner": "LAR"},
+      {"NFC": "CHI", "AFC": "DEN", "winner": "DEN"},
+      {"NFC": "LAR", "AFC": "LAC", "winner": "LAR"},
+      {"NFC": "PHI", "AFC": "JAX", "winner": "PHI"},
+      {"NFC": "LAR", "AFC": "NE", "winner": "LAR"},
+      {"NFC": "SEA", "AFC": "DEN", "winner": "SEA"},
+      {"NFC": "SEA", "AFC": "DEN", "winner": "DEN"},
+      {"NFC": "SF", "AFC": "JAX", "winner": "SF"},
+      {"NFC": "LAR", "AFC": "BUF", "winner": "LAR"},
+      {"NFC": "LAR", "AFC": "DEN", "winner": "LAR"}
+    ]
+  }
+}
